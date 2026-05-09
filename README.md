@@ -1,3 +1,4 @@
+
 ## Project Preview
 
 <p align="center">
@@ -5,6 +6,11 @@
   <img src="client/src/assets/Ins_tools.png" width="45%" alt="Instructor Tools" />
 </p>
 
+<p align="center">
+  <img src="client/src/assets/Cources.png" width="31%" alt="Feature 3" />
+  <img src="client/src/assets/Cource_detailes.png" width="31%" alt="Feature 4" />
+  <img src="client/src/assets/Screenshot.png" width="31%" alt="Feature 5" />
+</p>
 # LMS (Learning Management System)
 
 A full-stack Learning Management System built with Node.js, Express, PostgreSQL, and React.
